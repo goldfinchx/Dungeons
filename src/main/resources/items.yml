@@ -1,0 +1,25 @@
+gold-naming:
+    1:
+        range-from: 1
+        range-to: 10
+        title: "Горсть "
+    2:
+        range-from: 11
+        range-to: 50
+        title: "Кучка"
+    3:
+        range-from: 51
+        range-to: 100
+        title: "Мешочек "
+    4:
+        range-from: 101
+        range-to: 250
+        title: "Мешок "
+    5:
+        range-from: 251
+        range-to: 750
+        title: "Кошель "
+    6:
+        range-from: 751
+        range-to: 1250
+        title: "Куча "

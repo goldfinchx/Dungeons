@@ -1,0 +1,34 @@
+plugin-mode: "game" # game, lobby
+settings:
+    world-name: "dungeons"
+    rooms-size: 21
+    match-mode: "team_small" # small, medium, large
+    countdown-time: 15
+    class-choosing-time: 30
+    match-time: 300
+    end-game-time: 30
+    dungeon-settings: "MEDIEVAL"
+    doors-material: "HARDENED_CLAY"
+    doors-material-data: 0
+    door-opener-material: "LEVER"
+    dungeon-lock-material: "OBSERVER"
+    waiting-room:
+        schem-name: "waiting_room"
+        location:
+            x: 200
+            y: 200
+            z: 200
+    after-death-room:
+        schem-name: "after_death_room"
+        location:
+            x: 200
+            y: 180
+            z: 200
+    schem-decoding-markers:
+        marker-material: "CONCRETE"
+        door-id: 1
+        spawn-id: 2
+        boss-id: 3
+        lever-id: 4
+        mob-spawner-id: 5
+        dungeon-lock-id: 6

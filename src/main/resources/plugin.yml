@@ -1,0 +1,6 @@
+name: Dungeons
+version: '${version}'
+main: ru.goldfinch.dungeons.Dungeons
+load: STARTUP
+softdepend: [FastAsyncWorldEdit, SlimeWorldManager, NBTAPI, MythicMobs, Citizens, HolographicDisplays]
+authors: [Goldfinch]
