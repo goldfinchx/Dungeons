@@ -1,5 +1,5 @@
-# dungeons
-Dungeons - is a mix of Diablo, Loop Heroes and Hades, featuring:
+# Dungeons
+Mix of Diablo, Loop Heroes and Hades, featuring:
 - procedural dungeon generation
 - schematic analysing
 - custom battle system
